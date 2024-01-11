@@ -11,7 +11,7 @@ This project was done as a part of a Machine Learning 1 (BIA 5302) course offere
 
 ### Data Source
 
-https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code
+[Source](#https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code)
 
 
 
