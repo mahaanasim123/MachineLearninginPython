@@ -1,5 +1,5 @@
 # A Deep Dive into Customer Personality Analysis Using Machine Learning Algorithms
-## Table of Contents
+### Table of Contents
 [Project Overview](#ProjectOverview)
 
 
