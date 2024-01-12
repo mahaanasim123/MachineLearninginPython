@@ -3,9 +3,9 @@
 1. [Project Overview](#project-overview)
 2. [Data Source](#data-source)
 3. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
-4. [Data Visualization](data-visualization)
-5. [Data Modelling](data-modelling)
-6. [Conclusion](conclusion)
+4. [Data Visualization](#data-visualization)
+5. [Data Modelling](#data-modelling)
+6. [Conclusion](#conclusion)
 
 
 ## Project Overview
@@ -27,7 +27,6 @@ reliability of the findings, outliers were addressed and categorical variables w
 -  After filling in the missing values, all the null values are dropped from the dataset. Now, the dataset is ready for performing exploratory analysis.
 
 ## Data Visualization
-
 The following graphs were used for visually presenting our findings.
 - Heat Maps
 - Stacked Bar Graph
